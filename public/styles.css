@@ -1,0 +1,17 @@
+* {
+	text-align: center;
+}
+.red {
+	padding: 2%;
+	background-color: #FB090B;
+}
+.logos {
+	padding: 2%;
+	border-top: 3px solid black;
+}
+.info {
+	padding: 2%;
+}
+.rb {
+	border-top: 3px solid black;
+}
